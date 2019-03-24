@@ -1,0 +1,33 @@
+********** GitHub url******************
+ssh:    git@github.com:Jay-mo/Scripting_Projects-ITS-5900.git
+
+https:  https://github.com/Jay-mo/Scripting_Projects-ITS-5900.git
+
+**********output of git log *****************
+commit 07b18e562858fc6d9781d7a4f98e1659e3fd492c
+Author: John Onumah <hapimensa@gmail.com>
+Date:   Sat Mar 23 22:18:24 2019 -0400
+
+    adding project 4
+
+commit 6be7a5ec3166a206f1275ebe75849e0853178755
+Author: John Onumah <hapimensa@gmail.com>
+Date:   Sat Mar 23 22:16:17 2019 -0400
+
+    adding project 2
+
+commit f8946969ea5008a9d02c2df77981baaf5d9f6767
+Author: John Onumah <hapimensa@gmail.com>
+Date:   Sat Mar 23 22:14:01 2019 -0400
+
+    adding project 1
+
+commit 93a4050d5c67f47ee3f6a78c45e30698a8bbd530
+Author: John Onumah <hapimensa@gmail.com>
+Date:   Sat Mar 23 22:10:01 2019 -0400
+
+    first commit
+
+**********output of git remote command **************************
+origin	git@github.com:Jay-mo/Scripting_Projects-ITS-5900.git (fetch)
+origin	git@github.com:Jay-mo/Scripting_Projects-ITS-5900.git (push)
