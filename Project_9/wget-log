@@ -1,0 +1,20 @@
+--2019-03-29 11:20:45--  http://scripting.profkruse.net/projects/project-9/SensorData.dat?attredirects=0
+Resolving scripting.profkruse.net (scripting.profkruse.net)... 2607:f8b0:4004:811::2013, 172.217.15.115
+Connecting to scripting.profkruse.net (scripting.profkruse.net)|2607:f8b0:4004:811::2013|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://4bac0016-a-62cb3a1a-s-sites.googlegroups.com/site/ouitsscripting/projects/project-9/SensorData.dat?attachauth=ANoY7coS2QmRJYUlR97_fgxwa785eCxu_tM8zDkx7oen1HbL-THaducx_A0x-8Kn0cSjE2rdOuuGigoavOh59XJJt6mFGQ9wgEM5Hw9PSiH1_BC6Dd2fkuhrGHfaUjYJCq5MIHyJyc3pWqveAWV6kiR-iIJNb56k74EDcUvDNz9L_MIQ8c04BbBthicYRy26hm6WeDUUyNCfxhLVEWpON1in_g9XN9OAQEPIMsCdIVxUYAV4FrIDjTvn4-u531B0JMomUxEFxVeX&attredirects=0 [following]
+--2019-03-29 11:20:45--  http://4bac0016-a-62cb3a1a-s-sites.googlegroups.com/site/ouitsscripting/projects/project-9/SensorData.dat?attachauth=ANoY7coS2QmRJYUlR97_fgxwa785eCxu_tM8zDkx7oen1HbL-THaducx_A0x-8Kn0cSjE2rdOuuGigoavOh59XJJt6mFGQ9wgEM5Hw9PSiH1_BC6Dd2fkuhrGHfaUjYJCq5MIHyJyc3pWqveAWV6kiR-iIJNb56k74EDcUvDNz9L_MIQ8c04BbBthicYRy26hm6WeDUUyNCfxhLVEWpON1in_g9XN9OAQEPIMsCdIVxUYAV4FrIDjTvn4-u531B0JMomUxEFxVeX&attredirects=0
+Resolving 4bac0016-a-62cb3a1a-s-sites.googlegroups.com (4bac0016-a-62cb3a1a-s-sites.googlegroups.com)... 2607:f8b0:400d:c0d::89, 209.85.232.137
+Connecting to 4bac0016-a-62cb3a1a-s-sites.googlegroups.com (4bac0016-a-62cb3a1a-s-sites.googlegroups.com)|2607:f8b0:400d:c0d::89|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://4bac0016-a-62cb3a1a-s-sites.googlegroups.com/site/ouitsscripting/projects/project-9/SensorData.dat?attachauth=ANoY7coS2QmRJYUlR97_fgxwa785eCxu_tM8zDkx7oen1HbL-THaducx_A0x-8Kn0cSjE2rdOuuGigoavOh59XJJt6mFGQ9wgEM5Hw9PSiH1_BC6Dd2fkuhrGHfaUjYJCq5MIHyJyc3pWqveAWV6kiR-iIJNb56k74EDcUvDNz9L_MIQ8c04BbBthicYRy26hm6WeDUUyNCfxhLVEWpON1in_g9XN9OAQEPIMsCdIVxUYAV4FrIDjTvn4-u531B0JMomUxEFxVeX&attredirects=0 [following]
+--2019-03-29 11:20:45--  https://4bac0016-a-62cb3a1a-s-sites.googlegroups.com/site/ouitsscripting/projects/project-9/SensorData.dat?attachauth=ANoY7coS2QmRJYUlR97_fgxwa785eCxu_tM8zDkx7oen1HbL-THaducx_A0x-8Kn0cSjE2rdOuuGigoavOh59XJJt6mFGQ9wgEM5Hw9PSiH1_BC6Dd2fkuhrGHfaUjYJCq5MIHyJyc3pWqveAWV6kiR-iIJNb56k74EDcUvDNz9L_MIQ8c04BbBthicYRy26hm6WeDUUyNCfxhLVEWpON1in_g9XN9OAQEPIMsCdIVxUYAV4FrIDjTvn4-u531B0JMomUxEFxVeX&attredirects=0
+Connecting to 4bac0016-a-62cb3a1a-s-sites.googlegroups.com (4bac0016-a-62cb3a1a-s-sites.googlegroups.com)|2607:f8b0:400d:c0d::89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 38 [application/octet-stream]
+Saving to: ‘SensorData.dat?attredirects=0’
+
+SensorData.dat?attredirects=0                                                0%[                                                                                                                                                                                        ]       0  --.-KB/s               SensorData.dat?attredirects=0                                              100%[=======================================================================================================================================================================================>]      38  --.-KB/s    in 0s      
+
+2019-03-29 11:20:47 (482 KB/s) - ‘SensorData.dat?attredirects=0’ saved [38/38]
+
