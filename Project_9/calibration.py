@@ -1,3 +1,6 @@
+# Python module that implements function needed to calibrate data from sensor readings.
+#John Mensah Onumah
+#ITS 5900
 
 
 def calibration_function(data_type,data_value):
